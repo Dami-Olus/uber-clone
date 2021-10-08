@@ -67,6 +67,7 @@ const Map = () => {
           identifier="destination"
         />
       )}
+
     </MapView>
   )
 }
